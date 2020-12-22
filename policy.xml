@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<generator_policy>
+<!--
+<namespace prefix="fd" uri="http://data.itatti.harvard.edu/florentinedrawings/"/>
+
+The URIs should have the following forms:
+
+DrawingURI:
+http://data.itatti.harvard.edu/florentinedrawings/000570A-Berenson1961
+
+DrawingSideURI:
+http://data.itatti.harvard.edu/florentinedrawings/000570A-Berenson1961/recto
+
+Identifiers:
+http://data.itatti.harvard.edu/florentinedrawings/000570A-Berenson1961/BerensonNumber/570A
+
+
+--> 
+
+<generator name="ImageGenerator" prefix="iiif">
+	<pattern>{id}{postfix}</pattern>
+</generator>
+
+
+<generator name="JsonGenerator" prefix="iiif">
+	<pattern>{id}{postfix}</pattern>
+</generator>
+
+<generator name="URIwithTypeAndId" prefix="prefix">
+	<pattern>{type}/{id}</pattern>
+</generator>
+
+<generator name="EventURI" prefix="prefix">
+	<pattern>{type}/{id}/{event}</pattern>
+</generator>
+
+<generator name="PropertyTypeUri" prefix="prefix">
+	<pattern>{propertyType}/{year}/{domain}/{range}</pattern>
+</generator>
+
+<generator name="EditionURI" prefix="prefix">
+	<!-- This is for intermediate node URIs that have non-identifiers as ultimate node being linked to. Unlike the other IntermediateURI generator, this one does not include a "counter" number-->
+<pattern>{id}/{type}/{year}/{type2}</pattern>
+</generator>
+
+<generator name="DrawingVisualURI" prefix="prefix">
+<pattern>{type}/{id}/{side}/visual</pattern>
+</generator>
+
+<generator name="IdentifierURI" prefix="prefix">
+	<pattern>{subject_type}/{subject_id}/{identifier_type}/{identifier_id}</pattern>
+</generator>
+
+<generator name="EditionIdentifierURI" prefix="prefix">
+	<pattern>{subject_type}/{subject_id}/{year}/{identifier_type}/{identifier_id}</pattern>
+</generator>
+
+
+<generator name="DrawingSideIdentifierURI" prefix="prefix">
+	<pattern>{subject_type}/{subject_id}/{side}/{identifier_type}/{identifier_id}</pattern>
+</generator>
+
+<generator name="TimespanUri" prefix="prefix">
+	<pattern>{resourceType}/{resourceId}/{eventType}/timespan</pattern>
+</generator>
+
+
+
+
+
+
+
+<generator name="IntermediateURI" prefix="prefix">
+	<!-- This is for intermediate node URIs that have non-identifiers as ultimate node being linked to. But for production event, which is singular (unlike image), perhaps consider a reduced pattern: {id}/{type}-->
+<pattern>{id}/{type}/{number}</pattern>
+</generator>
+
+ <generator name="LocalTermURI" prefix="work">
+        <pattern>{hierarchy}/{term}</pattern>
+    </generator> 
+ 
+<generator name="DrawingSideIntermediateURI" prefix="work">
+<pattern>{id}/{side}/{type}/{number}</pattern>
+</generator>
+
+<generator name="URI">
+ <pattern>{text}</pattern>
+</generator>
+
+<generator name="URIorUUID">
+<custom generatorClass="gr.forth.URIorUUID">
+<set-arg name="text"></set-arg>
+</custom>
+</generator>
+<!-- create other generator policies for other classes in our model diagram-->
+
+</generator_policy>

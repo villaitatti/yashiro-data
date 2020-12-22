@@ -1,0 +1,1762 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+    xmlns:custom="https://pharos.artresearch.net/custom/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:crmdig="http://www.ics.forth.gr/isl/CRMext/CRMdig.rdfs/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_096">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19561107_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19561107_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://iiif.io/api/image">
+            <rdfs:label>http://iiif.io/api/image</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19561107_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19561107_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19561107_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19561107_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_084">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551121_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551121_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551121_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551121_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551121_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551121_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_060">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530122_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530122_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530122_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530122_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530122_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530122_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530122_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530122_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_073">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550104_5.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550104_5.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>5</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550104_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550104_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550104_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550104_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550104_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550104_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550104_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550104_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="urn:uuid:3b7584ad-4633-4cfb-a382-265e60e7973e">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!195512xx_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!195512xx_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_086">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551207_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551207_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551207_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551207_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551207_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551207_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551207_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551207_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_074">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550426_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550426_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550426_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550426_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550426_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550426_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550426_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550426_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_062">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530410_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530410_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530410_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530410_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530410_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530410_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530410_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530410_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_099">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570307_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570307_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570307_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570307_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570307_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570307_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_087">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551230_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551230_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551230_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551230_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551230_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19551230_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_088">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560216_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560216_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560216_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560216_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560216_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560216_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560216_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560216_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_076">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550513_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550513_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550513_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550513_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550513_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550513_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550513_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550513_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_064">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530608_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530608_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530608_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530608_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530608_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530608_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530608_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19530608_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_040">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19490501_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19490501_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19490501_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19490501_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19490501_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19490501_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19490501_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19490501_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="urn:uuid:55ca8c6a-7107-4185-a3f5-67fc6a7fe863">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!195512xx_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!195512xx_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_077">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550704_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550704_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550704_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550704_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550704_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550704_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550704_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550704_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_066">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19531022_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19531022_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19531022_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19531022_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19531022_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19531022_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19531022_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19531022_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_055">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521107_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521107_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521107_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521107_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521107_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521107_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521107_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521107_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_043">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19500928_6.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19500928_6.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>6</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19500928_5.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19500928_5.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>5</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19500928_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19500928_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19500928_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19500928_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19500928_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19500928_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19500928_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19500928_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_031">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_7.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_7.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>7</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_9.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_9.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>9</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_5.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_5.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>5</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_6.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_6.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>6</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_8.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_8.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>8</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400304_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="urn:uuid:c1ff0078-f64e-46f5-8630-f3a6c8e7272f">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!195512xx_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!195512xx_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_032">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400423_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400423_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400423_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19400423_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_069">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19540420_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19540420_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19540420_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19540420_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19540420_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19540420_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19540420_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19540420_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_045">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19510615_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19510615_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19510615_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19510615_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19510615_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19510615_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19510615_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19510615_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_021">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19331010_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19331010_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19331010_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19331010_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19331010_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19331010_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_058">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521215_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521215_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521215_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521215_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521215_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521215_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521215_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521215_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_022">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19331229_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19331229_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19331229_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19331229_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19331229_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19331229_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19331229_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19331229_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_059">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521229_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521229_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521229_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521229_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521229_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521229_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521229_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19521229_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_047">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19511007_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19511007_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19511007_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19511007_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19511007_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19511007_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19511007_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19511007_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_049">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19511118_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19511118_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19511118_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19511118_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19511118_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19511118_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19511118_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19511118_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_037">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480711_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480711_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480711_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480711_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_025">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19360131_6.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19360131_6.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>6</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19360131_5.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19360131_5.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>5</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19360131_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19360131_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19360131_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19360131_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19360131_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19360131_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19360131_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19360131_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E22_Man-Made_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_038">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480815_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480815_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480815_8.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480815_8.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>8</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480815_5.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480815_5.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>5</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480815_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480815_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480815_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480815_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480815_7.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480815_7.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>7</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object"/>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480815_6.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480815_6.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>6</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480815_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19480815_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+  </crm:E22_Man-Made_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_027">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19370901_5.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19370901_5.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>5</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19370901_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19370901_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19370901_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19370901_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19370901_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19370901_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19370901_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19370901_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_101">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570406_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570406_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570406_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570406_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570406_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570406_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570406_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570406_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_103">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570703_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570703_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570703_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570703_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570703_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570703_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_115">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19591018_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19591018_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19591018_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19591018_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_019">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19330804_7.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19330804_7.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>7</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19330804_6.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19330804_6.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>6</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19330804_5.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19330804_5.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>5</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19330804_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19330804_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19330804_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19330804_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19330804_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19330804_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19330804_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19330804_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_104">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570819_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570819_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570819_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570819_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570819_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19570819_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_106">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19571002_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19571002_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19571002_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19571002_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19571002_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19571002_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19571002_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19571002_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_108">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19571214_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19571214_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19571214_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19571214_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19571214_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19571214_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_091">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560729_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560729_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560729_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560729_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560729_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560729_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560729_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560729_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_080">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550815_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550815_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550815_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550815_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550815_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550815_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550815_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550815_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_081">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550910_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550910_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550910_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550910_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550910_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550910_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550910_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19550910_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_094">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560905_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560905_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560905_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560905_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560905_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560905_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560905_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19560905_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_070">
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19541125_4.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19541125_4.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>4</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19541125_3.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19541125_3.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>3</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19541125_2.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19541125_2.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>2</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P129i_is_subject_of>
+      <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19541125_1.jpg/full/full/0/default.jpg">
+        <crm:P129i_is_subject_of>
+          <crm:E73_Information_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!to_yashiro!19541125_1.jpg/info.json"/>
+        </crm:P129i_is_subject_of>
+        <custom:has_sequence>1</custom:has_sequence>
+        <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+      </crmdig:D1_Digital_Object>
+    </crm:P129i_is_subject_of>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+</rdf:RDF>

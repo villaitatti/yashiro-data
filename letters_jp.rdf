@@ -1,0 +1,2254 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+    xmlns:prefix="https://yashiro.itatti.harvard.edu/resource/"
+    xmlns:custom="https://pharos.artresearch.net/custom/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:crmdig="http://www.ics.forth.gr/isl/CRMext/CRMdig.rdfs/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_095">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_095/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_095.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://iiif.io/api/image">
+                <rdfs:label>http://iiif.io/api/image</rdfs:label>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_095.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language>
+          <crm:E56_Language rdf:about="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+        </crm:P72_has_language>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_083">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_083/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_083.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_083.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_071">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_071/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_071.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_096">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_096/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_096.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_084">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_084/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_084.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_084.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_072">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_072/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_072.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_072.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_072.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_060">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_060/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_060.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_097">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_097/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_097.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_097.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_085">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_085/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_085.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_085.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_073">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_073/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_073.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_073.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_061">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_061/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_061.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_061.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_098">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_098/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_098.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_098.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_086">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_086/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_086.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_074">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_074/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_074.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_062">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_062/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_062.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_062.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_062.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_050">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_050/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_050.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_099">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_099/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_099.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_087">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_087/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_087.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_075">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_075/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_075.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_075.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_063">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_063/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_063.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_063.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_051">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_051/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_051.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_088">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_088/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_088.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_088.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_076">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_076/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_076.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_064">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_064/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_064.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_064.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_052">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_052/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_052.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_040">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_040/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_040.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_040.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_089">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_089/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_089.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_089.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_077">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_077/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_077.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_065">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_065/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_065.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_065.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_053">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_053/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_053.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_053.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_041">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_041/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_041.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_041.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_041.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_078">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_078/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_078.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_078.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_066">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_066/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_066.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_066.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_054">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_054/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_054.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_054.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_054.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_042">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_042/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_042.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_030">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_030/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_030.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_030.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_079">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_079/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_079.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_079.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_067">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_067/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_067.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_055">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_055/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_055.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_055.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_043">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_043/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_043.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_043.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_043.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_031">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_031/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_031.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_031.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_068">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_068/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_068.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_068.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_056">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_056/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_056.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_044">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_044/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_044.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_044.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_032">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_032/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_032.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_020">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_020/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_020.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_020.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_069">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_069/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_069.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_069.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_057">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_057/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_057.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_045">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_045/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_045.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_045.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_045.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_033">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_033/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_033.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_033.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_021">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_021/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_021.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_058">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_058/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_058.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_058.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_046">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_046/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_046.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_046.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_034">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_034/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_034.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_034.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_022">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_022/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_022.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_010">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_010/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_010.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_010.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_059">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_059/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_059.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_047">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_047/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_047.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_047.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_035">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_035/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_035.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_023">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_023/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_023.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_023.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_011">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_011/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_011.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_011.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_011.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_048">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_048/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_048.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_036">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_036/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_036.pdf/full/full/0/default.jpg?page=5">
+            <custom:has_sequence>5</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_036.pdf/full/full/0/default.jpg?page=4">
+            <custom:has_sequence>4</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_036.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_036.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_036.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_024">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_024/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_024.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_024.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_012">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_012/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_012.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_012.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_049">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_049/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_049.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_049.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_037">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_037/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_037.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_025">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_025/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_025.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_025.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_013">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_013/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_013.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_013.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_001">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_001/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_001.pdf/full/full/0/default.jpg?page=5">
+            <custom:has_sequence>5</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_001.pdf/full/full/0/default.jpg?page=4">
+            <custom:has_sequence>4</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_001.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_001.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_001.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_110">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_110/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_110.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_110.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_110.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_038">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_038/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_038.pdf/full/full/0/default.jpg?page=4">
+            <custom:has_sequence>4</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_038.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_038.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_038.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_026">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_026/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_026.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_026.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_014">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_014/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_014.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_014.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_014.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_002">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_002/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_002.pdf/full/full/0/default.jpg?page=5">
+            <custom:has_sequence>5</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_002.pdf/full/full/0/default.jpg?page=4">
+            <custom:has_sequence>4</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_002.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_002.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_002.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_111">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_111/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_111.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_111.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_039">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_039/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_039.pdf/full/full/0/default.jpg?page=7">
+            <custom:has_sequence>7</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_039.pdf/full/full/0/default.jpg?page=6">
+            <custom:has_sequence>6</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_039.pdf/full/full/0/default.jpg?page=5">
+            <custom:has_sequence>5</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_039.pdf/full/full/0/default.jpg?page=4">
+            <custom:has_sequence>4</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_039.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_039.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_039.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_027">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_027/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_027.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_015">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_015/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_015.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_003">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_003/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_003.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_112">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_112/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_112.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_100">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_100/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_100.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_028">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_028/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_028.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_028.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_028.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_016">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_016/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_016.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_004">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_004/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_004.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_004.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_101">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_101/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_101.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_101.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_113">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_113/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_113.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_113.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_029">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_029/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_029.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_017">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_017/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_017.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_017.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_005">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_005/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_005.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_005.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_005.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_114">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_114/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_114.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_102">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_102/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_102.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_018">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_018/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_018.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_018.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_018.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_006">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_006/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_006.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_006.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_103">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_103/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_103.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_103.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_019">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_019/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_019.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_019.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_007">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_007/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_007.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_104">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_104/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_104.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_104.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_008">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_008/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_008.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_008.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_105">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_105/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_105.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_009">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_009/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_009.pdf/full/full/0/default.jpg?page=4">
+            <custom:has_sequence>4</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_009.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_009.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_009.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_106">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_106/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_106.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_106.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_107">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_107/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_107.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_107.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_108">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_108/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_108.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_109">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_109/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_109.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_109.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_090">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_090/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_090.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_091">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_091/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_091.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_091.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_092">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_092/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_092.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_092.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_080">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_080/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_080.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_080.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_093">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_093/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_093.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_081">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_081/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_081.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_081.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_094">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_094/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_094.pdf/full/full/0/default.jpg?page=3">
+            <custom:has_sequence>3</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_094.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_094.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_082">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_082/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_082.pdf/full/full/0/default.jpg?page=2">
+            <custom:has_sequence>2</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_082.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+  <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_070">
+    <crm:P73_has_translation>
+      <crm:E33_Linguistic_Object rdf:about="https://yashiro.itatti.harvard.edu/resource/letter/Letter_070/translation">
+        <crm:P129i_is_subject_of>
+          <crmdig:D1_Digital_Object rdf:about="https://iiif.itatti.harvard.edu/iiif/2/yashiro!letters-jp!letter_070.pdf/full/full/0/default.jpg?page=1">
+            <custom:has_sequence>1</custom:has_sequence>
+            <crm:P2_has_type rdf:resource="http://iiif.io/api/image"/>
+          </crmdig:D1_Digital_Object>
+        </crm:P129i_is_subject_of>
+        <crm:P72_has_language rdf:resource="https://yashiro.itatti.harvard.edu/resource/language/japanese"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P73_has_translation>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+  </crm:E33_Linguistic_Object>
+</rdf:RDF>
